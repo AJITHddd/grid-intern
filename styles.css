@@ -1,0 +1,23 @@
+.col-md{
+    padding: 0.3rem;
+}
+.row{
+    margin-bottom:0.6rem ;
+}
+.box{
+    height: 300px;
+}
+.cat{
+    height: 322px;
+}
+.navbar-brand{
+      font-style: italic;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+@media(max-width:600px){
+    .row{
+        height: 250px;
+    }
+}
